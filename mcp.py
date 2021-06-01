@@ -6,4 +6,4 @@ divider = MCP3008(0)
  
 while True:
     print(divider.value)
-time.sleep(1.0)
+time.sleep(5.0)
